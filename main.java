@@ -1,7 +1,7 @@
 /**
  * Modifying from add-date
  * 
- * Part 5 add-date conflict
+ * Part 5 add-date conflict resolved
  */
 
 import java.util.Date;
